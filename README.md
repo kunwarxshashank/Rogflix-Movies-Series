@@ -17,3 +17,6 @@ SERIES
 https://vidsrc-api-jet.vercel.app/vidsrc/{TMDB_ID}?s={SEASON_NO.}&e={EPISODE_NO.}
 Example
 https://vidsrc-api-jet.vercel.app/vidsrc/62560?s=1&e=4
+
+SUBTITLE INCLUDED ⚡
+MULTI SERVER (FILEMOON) ⚡
